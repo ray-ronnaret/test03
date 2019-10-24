@@ -19,3 +19,5 @@ library(UsingR)
 #exec.pay
 
 diff(range(exec.pay))
+
+#updated
